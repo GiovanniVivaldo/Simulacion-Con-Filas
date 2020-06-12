@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1582766794 source:d:\estructura de datos\simulacionconfilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FILAS.h"
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1582766897 d:\estructura de datos\simulacionconfilas\filas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
